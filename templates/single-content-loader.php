@@ -76,6 +76,8 @@ if ( tutor()->lesson_post_type === $post->post_type ) {
 		?>
 	</div>
 </div>
+aaaaaaaaaaaaaaaaaaaaaaaaa
+<?php my_custom_hook(); ?>
 
 <!-- Course Progressbar on sm/mobile  -->
 <?php
